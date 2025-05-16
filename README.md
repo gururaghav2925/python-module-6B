@@ -1,5 +1,4 @@
-# Heading
-Python Program to Perform Product of Two Complex Numbers Using Binary '+' Operator Overloading
+# Python Program to Perform Product of Two Complex Numbers Using Binary '+' Operator Overloading
 
 # Aim
 To create a Python program that overloads the '+' operator in the `complex` class to perform the product of two complex numbers.
